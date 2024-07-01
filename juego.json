@@ -1,0 +1,1819 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Juan Perez",
+      "email": "juan.perez@example.com"
+    },
+    {
+      "id": "6de4",
+      "nombre": "luis",
+      "email": "123@gmail.com"
+    },
+    {
+      "id": "874c",
+      "nombre": "juan",
+      "email": "ortiz@gmail.com"
+    },
+    {
+      "id": "cfb9",
+      "nombre": "juan",
+      "email": "ortiz@gmail.com"
+    },
+    {
+      "id": "d76b",
+      "nombre": "juan",
+      "email": "ortiz@gmail.com"
+    },
+    {
+      "id": "5a3a",
+      "nombre": "juansdds",
+      "email": "sdds@gmail.com"
+    },
+    {
+      "id": "ca3c",
+      "nombre": "123232",
+      "email": "ddfd@gmail.com",
+      "edad": "12345"
+    },
+    {
+      "id": "2d83",
+      "nombre": "JUAN ORTIZ",
+      "email": "JUANORTIZ@GMAIL.COM",
+      "edad": "23"
+    },
+    {
+      "id": "d95c",
+      "nombre": "CAMILO",
+      "email": "123@GMAIL.COM",
+      "edad": "12"
+    },
+    {
+      "id": "b13a",
+      "nombre": "Luis caldera",
+      "email": "192932@gmail.com",
+      "edad": "25"
+    },
+    {
+      "id": "f61c",
+      "nombre": "juan camilo",
+      "email": "juancamilo@gmail.com",
+      "edad": "23"
+    },
+    {
+      "id": "5fbe",
+      "nombre": "juan",
+      "email": "sakhsaj@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "ebe0",
+      "nombre": "d",
+      "email": "dfdf@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "159d",
+      "nombre": "camilo ",
+      "email": "camilo@gamil.com",
+      "edad": "12"
+    },
+    {
+      "id": "4cb5",
+      "nombre": "camilo",
+      "email": "accaavh@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "0bc5",
+      "nombre": "luis caldera",
+      "email": "caldera@gmail.com",
+      "edad": "25"
+    },
+    {
+      "id": "e8b1",
+      "nombre": "aura",
+      "email": "assa@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "e1d7",
+      "nombre": "camila",
+      "email": "ca,kds@gamil.com",
+      "edad": "12"
+    },
+    {
+      "id": "dc14",
+      "nombre": "dsds",
+      "email": "sdds@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "7176",
+      "nombre": "camila",
+      "email": "camila123@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "1167",
+      "nombre": "dd",
+      "email": "dssd",
+      "edad": "12"
+    },
+    {
+      "id": "7660",
+      "nombre": "dsd",
+      "email": "dsds",
+      "edad": "12"
+    },
+    {
+      "id": "3626",
+      "nombre": "edd",
+      "email": "dsds@gmail.com",
+      "edad": "13"
+    },
+    {
+      "id": "7ce3",
+      "nombre": "camila",
+      "email": "ahash@gmail.com",
+      "edad": "123"
+    },
+    {
+      "id": "a9a3",
+      "nombre": "dffd",
+      "email": "ffdf@gamil.com",
+      "edad": "21"
+    },
+    {
+      "id": "0fa1",
+      "nombre": "xz",
+      "email": "dds@gmail.com",
+      "edad": "12"
+    },
+    {
+      "id": "6370",
+      "nombre": "juan",
+      "email": "dsds@gamail.com",
+      "edad": "12"
+    },
+    {
+      "id": "ef6f",
+      "nombre": "dd",
+      "email": "dd@gmail.com",
+      "edad": "8"
+    },
+    {
+      "id": "509b",
+      "nombre": "dsd",
+      "email": "sdds@d.com",
+      "edad": "13"
+    },
+    {
+      "id": "05e5",
+      "nombre": "JUAN PEREZ",
+      "email": "JUAN12@GAMIL.COM",
+      "edad": "12"
+    },
+    {
+      "id": "7499",
+      "nombre": "DFFD",
+      "email": "FDFD@GMAIL.COM",
+      "edad": "23"
+    },
+    {
+      "id": "9907",
+      "nombre": "CAMILO",
+      "email": "CAMILO123@GAMIL.COM",
+      "edad": "123"
+    },
+    {
+      "id": "8963",
+      "nombre": "DDSSD",
+      "email": "SDS@GAMIL.COM",
+      "edad": "12"
+    }
+  ],
+  "resultados": [
+    {
+      "usuario": {
+        "id": 1,
+        "nombre": "Juan Perez",
+        "email": "juan.perez@example.com"
+      },
+      "resultado": {
+        "nota": 8,
+        "respuestas": [
+          {
+            "pregunta": "¿Qué es un algoritmo?",
+            "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+            "esCorrecta": true
+          }
+        ]
+      },
+      "id": "d8a4"
+    },
+    {
+      "id": "635a",
+      "usuario_id": 1,
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "a) Un tipo de procesador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "281c",
+      "usuario_id": 1,
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "d) Un programa antivirus",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "8552",
+      "usuario_id": "d95c",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "c) Linux",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "c227",
+      "usuario": {
+        "id": "b13a",
+        "nombre": "Luis caldera",
+        "email": "192932@gmail.com",
+        "edad": "25"
+      },
+      "resultado": {
+        "nota": 2,
+        "respuestas": [
+          {
+            "pregunta": "¿Qué es un algoritmo?",
+            "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+            "esCorrecta": true
+          },
+          {
+            "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+            "respuesta": "a) Python",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué significa 'RAM' en informática?",
+            "respuesta": "b) Read Access Memory",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué es una base de datos?",
+            "respuesta": "a) Un tipo de procesador",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué es el software libre?",
+            "respuesta": "c) Software de prueba por tiempo limitado",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Cuál es la principal función de un servidor web?",
+            "respuesta": "c) Proteger contra virus informáticos",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué es la nube en términos informáticos?",
+            "respuesta": "c) Una plataforma de programación",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+            "respuesta": "b) SQL",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué es un firewall?",
+            "respuesta": "d) Un sistema de archivos",
+            "esCorrecta": false
+          },
+          {
+            "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+            "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+            "esCorrecta": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd20",
+      "usuario_id": "f61c",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "016f",
+      "usuario_id": "f61c",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "b7a6",
+      "usuario_id": "f61c",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "efa5",
+      "usuario_id": "f61c",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "7fd1",
+      "usuario_id": "5fbe",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "e95a",
+      "usuario_id": "5fbe",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "88b7",
+      "usuario_id": "ebe0",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "c) Una plataforma de programación",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "00d3",
+      "usuario_id": "ebe0",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "c) Una plataforma de programación",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "bedd",
+      "usuario_id": "159d",
+      "nota": 5,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "d) HTML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "d) Un programa antivirus",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "590e",
+      "usuario_id": "159d",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "c) Linux",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "d) Un tipo de malware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "d) XML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "464e",
+      "usuario_id": "4cb5",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "c) Un lenguaje de programación",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "d) HTML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "d) XML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "c) Un algoritmo específico para juegos",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "fcee",
+      "usuario_id": "7176",
+      "nota": 8,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "c) Linux",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "d) Real-time Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "b0da",
+      "usuario_id": "1167",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "d) HTML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "c) Un algoritmo específico para juegos",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "6160",
+      "usuario_id": "1167",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "c) Linux",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "d) Un programa antivirus",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "cbfe",
+      "usuario_id": "3626",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "a) Python",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "d) Un tipo de malware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "5adc",
+      "usuario_id": "7ce3",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "c) Software de prueba por tiempo limitado",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "c) Un dispositivo para enfriar los componentes del ordenador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "0354",
+      "usuario_id": "0fa1",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "c) Linux",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "d) Un programa antivirus",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "c) Proteger contra virus informáticos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "c) Un algoritmo específico para juegos",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "648e",
+      "usuario_id": "6370",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "a) Python",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "d) Un sistema de archivos",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "d2a2",
+      "usuario_id": "ef6f",
+      "nota": 2,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "d) XML",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "8bc8",
+      "usuario_id": "509b",
+      "nota": 3,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "a) Python",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "a) Un tipo de procesador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "c) Una plataforma de programación",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "b) Un tipo de hardware avanzado",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "7154",
+      "usuario_id": "05e5",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "a) Un tipo de hardware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "a) Python",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "a) Random Access Memory",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "a) Un tipo de procesador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "a) Software que se puede usar, modificar y distribuir libremente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "a) Ejecutar aplicaciones de escritorio",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "c) Una plataforma de programación",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "9fb0",
+      "usuario_id": "7499",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "c) Un software de edición de imágenes",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "d) Software exclusivo para instituciones educativas",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "b) Un servicio de almacenamiento y procesamiento de datos en servidores remotos accesibles a través de Internet",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "a) HTTP",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "b) Una medida de seguridad para controlar el tráfico de red entrante y saliente",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "c) Un algoritmo específico para juegos",
+          "esCorrecta": false
+        }
+      ]
+    },
+    {
+      "id": "3862",
+      "usuario_id": "9907",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "b) Microsoft Word",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "c) Rapid Action Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "a) Un tipo de procesador",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "a) Un fenómeno meteorológico",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "c) C++",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    },
+    {
+      "id": "e427",
+      "usuario_id": "8963",
+      "nota": 4,
+      "respuestas": [
+        {
+          "pregunta": "¿Qué es un algoritmo?",
+          "respuesta": "b) Un conjunto de instrucciones para resolver un problema o realizar una tarea",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+          "respuesta": "a) Python",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué significa 'RAM' en informática?",
+          "respuesta": "b) Read Access Memory",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es una base de datos?",
+          "respuesta": "b) Un conjunto organizado de datos que se puede acceder, gestionar y actualizar",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es el software libre?",
+          "respuesta": "b) Software gratuito sin restricciones de uso",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál es la principal función de un servidor web?",
+          "respuesta": "b) Almacenar y entregar páginas web a los usuarios",
+          "esCorrecta": true
+        },
+        {
+          "pregunta": "¿Qué es la nube en términos informáticos?",
+          "respuesta": "d) Un tipo de malware",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un lenguaje de programación?",
+          "respuesta": "b) SQL",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es un firewall?",
+          "respuesta": "a) Un tipo de red",
+          "esCorrecta": false
+        },
+        {
+          "pregunta": "¿Qué es la inteligencia artificial (IA)?",
+          "respuesta": "a) La capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana",
+          "esCorrecta": true
+        }
+      ]
+    }
+  ]
+}
